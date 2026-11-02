@@ -39,17 +39,11 @@ A modern Android real-time messaging application replicating the core user exper
 
 | Welcome Screen | Phone Registration | OTP Verification |
 |:---:|:---:|:---:|
-| <img width="310" height="698" alt="Screenshot 2026-11-02 164946" src="https://github.com/user-attachments/assets/2e715153-576e-47da-8576-e9ab946a9ae4" />
- | <img width="315" height="702" alt="Screenshot 2026-11-02 164327" src="https://github.com/user-attachments/assets/b24d556f-6c2f-42cd-96ca-1fd35f25dc70" />
- |<img width="310" height="697" alt="Screenshot 2026-11-02 164717" src="https://github.com/user-attachments/assets/a6f09ffb-291d-4960-9e98-154854f7a186" />
- |
+| <img width="310" height="698" alt="Screenshot 2026-11-02 164946" src="https://github.com/user-attachments/assets/2e715153-576e-47da-8576-e9ab946a9ae4" /> | <img width="315" height="702" alt="Screenshot 2026-11-02 164327" src="https://github.com/user-attachments/assets/b24d556f-6c2f-42cd-96ca-1fd35f25dc70" /> | <img width="310" height="697" alt="Screenshot 2026-11-02 164717" src="https://github.com/user-attachments/assets/a6f09ffb-291d-4960-9e98-154854f7a186" />|
 
 | Chats Screen | 1-on-1 Chat Screen | Settings Screen |
 |:---:|:---:|:---:|
-|  <img width="311" height="697" alt="Screenshot 2026-11-02 164151" src="https://github.com/user-attachments/assets/2db690ab-f3fa-4cd8-a142-74b5fc60c7d3" />
- | <img width="312" height="697" alt="Screenshot 2026-11-02 164630" src="https://github.com/user-attachments/assets/0f09e6be-e670-4498-87a3-d66de40aca91" />
- | <img width="315" height="696" alt="Screenshot 2026-11-02 164310" src="https://github.com/user-attachments/assets/dae16797-621f-43c5-8d00-1f4314853072" />
- |
+|<img width="311" height="697" alt="Screenshot 2026-11-02 164151" src="https://github.com/user-attachments/assets/2db690ab-f3fa-4cd8-a142-74b5fc60c7d3" /> | <img width="312" height="697" alt="Screenshot 2026-11-02 164630" src="https://github.com/user-attachments/assets/0f09e6be-e670-4498-87a3-d66de40aca91" /> | <img width="315" height="696" alt="Screenshot 2026-11-02 164310" src="https://github.com/user-attachments/assets/dae16797-621f-43c5-8d00-1f4314853072" /> |
 
 
 ---
